@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700473946166",
+    "project_id": "shop-ef82c",
+    "storage_bucket": "shop-ef82c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700473946166:android:2f465143fdfb9c7a83a897",
+        "android_client_info": {
+          "package_name": "com.example.final_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNaIM9A3tUOz0JCFSCmjgl2GHV-fYxdek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700473946166:android:2b9e863178a9d28e83a897",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNaIM9A3tUOz0JCFSCmjgl2GHV-fYxdek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
